@@ -15,6 +15,7 @@ Wire - Button - Wire
 ![](<Screenshot from 2026-06-10 21-51-38.png>)
 ![alt text](image.png)
 ![alt text](image-1.png)
+![alt text](build-1.png)
 
 # BOM
 
